@@ -9,6 +9,16 @@
   "author": "Jean Roux",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^6.1.0",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^3.6.0",
+    "extract-text-webpack-plugin": "^2.0.0-beta.4",
+    "file-loader": "^6.0.0",
+    "image-webpack-loader": "^6.0.0",
+    "imagemin-gifsicle": "^7.0.0",
+    "style-loader": "^1.2.1",
+    "url-loader": "^4.1.0",
     "webpack": "^2.2.0-rc.0"
   }
 }
